@@ -1,0 +1,31 @@
+h1{
+    font-family: Montserrat;
+    text-align: center;
+    background-color: black;
+    color: white;
+    padding:20px;
+}
+
+p{
+    font-family:Montserrat;
+    margin-left: 100px;
+    margin-right: 100px;
+    text-align: center;
+    margin-top: 55px;
+}
+h2{
+    font-family: Montserrat;
+    background-color: black;
+    color: white;
+    text-align: center;    
+}
+a{
+    color: black;
+    text-decoration: none;
+}
+img{
+    margin-left: 450px;
+    height: 500px;
+    width: 600px;
+    
+}
